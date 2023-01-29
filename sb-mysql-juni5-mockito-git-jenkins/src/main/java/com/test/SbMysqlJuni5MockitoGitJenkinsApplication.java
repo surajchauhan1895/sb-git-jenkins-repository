@@ -10,6 +10,8 @@ public class SbMysqlJuni5MockitoGitJenkinsApplication {
 		SpringApplication.run(SbMysqlJuni5MockitoGitJenkinsApplication.class, args);
 		
 		System.out.println("Welcome to Spring Boot MySql Junit5 Mockito Git Repo Jenkins CI-CD Pipeline...!!!");
+		
+		System.out.println("Again Welcome to Spring Boot MySql Junit5 Mockito Git Repo Jenkins CI-CD Pipeline...!!!");
 	}
 
 }
