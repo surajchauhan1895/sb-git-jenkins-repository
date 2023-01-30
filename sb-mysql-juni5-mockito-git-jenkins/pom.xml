@@ -11,6 +11,7 @@
 	<groupId>com.test</groupId>
 	<artifactId>sb-mysql-juni5-mockito-git-jenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>sb-mysql-juni5-mockito-git-jenkins</name>
 	<description>sb-mysql-juni5-mockito-git-jenkins</description>
 	<properties>
